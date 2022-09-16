@@ -93,8 +93,8 @@ section{
     width: 100%;
     position: absolute;
     left: 0;
-    top: 0;
-    padding: 3rem 18rem;
+    top: 3 rem;
+    padding: 10 rem;
 }
 
 .section {
@@ -250,6 +250,7 @@ section{
     display:grid;
     grid-template-columns: repeat(2, 1fr);
     padding-top: 3rem;
+    padding-right: 15rem;
     padding-bottom: 5rem;
     .right-about{
         display:grid;
@@ -299,13 +300,14 @@ section{
         }
     }
     .left-about{
-        padding-right: 5rem;
+        padding-left: 5rem;
         p{
             line-height: 2rem;
-            padding: 1rem;
+            padding: 5rem;
             color: var(--color-grey-1);
         }
         h4{
+            padding-left: 5rem;
             font-size: 2rem;
             text-transform: uppercase;
         }
