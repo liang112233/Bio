@@ -271,7 +271,9 @@ section {
 }
 
 .about-stats {
-  padding: 10rem;
+  padding: 4rem;
+  padding-left: 10rem;
+  padding-right: 10rem;
 }
 .about-stats .progress-bars {
   display: grid;
