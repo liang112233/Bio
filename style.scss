@@ -317,7 +317,8 @@ section{
   }
 
   .about-stats{
-    padding-bottom: 4rem;
+    // padding-bottom: 4rem;
+    padding: 10rem;
     .progress-bars{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
