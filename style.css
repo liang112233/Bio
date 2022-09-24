@@ -337,7 +337,7 @@ section {
 }
 .experience .experience-item .exp-icon {
   position: absolute;
-  left: -22px;
+  left: -10px;
 }
 .experience h5 {
   padding: 1rem 0;
@@ -357,14 +357,4 @@ section {
   text-align: center;
   padding: 3.5rem 0;
   position: relative;
-}
-.stat-title::before {
-  content: "";
-  left: 50%;
-  top: 0;
-  width: 40%;
-  height: 1px;
-  background-color: var(--color-grey-5);
-  transform: translateX(-50%);
-  top: 0;
 }/*# sourceMappingURL=style.css.map */
