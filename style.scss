@@ -422,6 +422,28 @@ section{
 
 }
 
+.contact-content{
+    position: absolute;
+    width: 100%;
+    height: 50px;
+    font-size: 2rem;
+    text-align: center;
+    padding:3rem 0;
+
+
+}
+
+.footer-header{
+    position: absolute;
+    bottom: 1rem;
+    width: 100%;
+    height: 50px;
+    font-size: 0.8rem;
+    text-align: center;
+    padding:1rem 0;
+    padding-right: 10rem;
+
+}
 .footer{
     position: absolute;
     bottom: 1rem;
@@ -430,8 +452,7 @@ section{
     font-size: 0.8rem;
     text-align: center;
     padding:1rem 0;
-
-
-
-
+}
+.ul{
+    list-style-type: disc;
 }
