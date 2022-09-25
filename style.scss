@@ -397,6 +397,18 @@ section{
         }
     }
 
+    h6{
+        padding: 1rem 0;
+        // text-transform: uppercase;
+        font-size: 1rem;
+        font-weight: 600;
+        span{
+            color: var(--color-grey-2);
+            font-weight: 500;
+            font-size: 1rem;
+        }
+    }
+
 }
 
 .stat-title{
@@ -450,6 +462,9 @@ section{
     text-align: center;
     padding:1rem 0;
 }
-.ul{
-    
+li{
+    font-size: 18px;
+    margin-left: 10px;
+    list-style-type: circle;
+
 }

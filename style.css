@@ -351,6 +351,16 @@ section {
   font-weight: 500;
   font-size: 1.2rem;
 }
+.experience h6 {
+  padding: 1rem 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
+.experience h6 span {
+  color: var(--color-grey-2);
+  font-weight: 500;
+  font-size: 1rem;
+}
 
 .stat-title {
   text-transform: uppercase;
@@ -388,4 +398,10 @@ section {
   font-size: 0.8rem;
   text-align: center;
   padding: 1rem 0;
+}
+
+li {
+  font-size: 18px;
+  margin-left: 10px;
+  list-style-type: circle;
 }/*# sourceMappingURL=style.css.map */
