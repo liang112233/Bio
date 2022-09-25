@@ -218,7 +218,7 @@ section {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   padding-top: 3rem;
-  padding-right: 15rem;
+  padding-right: 10rem;
   padding-bottom: 5rem;
 }
 .about-container .right-about {
@@ -327,8 +327,9 @@ section {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 2rem;
-  padding-bottom: 3rem;
-  padding-left: 10rem;
+  padding-bottom: 10rem;
+  padding-left: 6rem;
+  padding-right: 6rem;
 }
 .experience .experience-item {
   position: relative;
